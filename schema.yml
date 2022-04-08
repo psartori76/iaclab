@@ -7,7 +7,7 @@ logoUrl: https://objectstorage.us-phoenix-1.oraclecloud.com/n/toddrsharp/b/objec
 
 variableGroups:
     - title: "Required Inputs"
-      variables
+      variables:
         - "compartment_ocid"
         - "region"
         - "bucket_name"
