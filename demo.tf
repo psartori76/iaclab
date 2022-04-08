@@ -5,7 +5,7 @@ variable "region" {
     default = "us-ashburn-1"
 }
 variable "bucket_namespace" {
-    default = "toddrsharp"
+    default = "id0cvlngwjnu"
 }
 variable "bucket_name" {
     default = "resource_manager_demo_bucket"
